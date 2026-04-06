@@ -1,0 +1,121 @@
+[
+    {
+        "code": "09A",
+        "label": "Murder and Nonnegligent Manslaughter",
+        "group": "A",
+        "category": "Person",
+        "keywords": ["murder", "homicide", "killing", "slayer", "death"]
+    },
+    {
+        "code": "09B",
+        "label": "Negligent Manslaughter",
+        "group": "A",
+        "category": "Person",
+        "keywords": ["negligent manslaughter", "accidental killing"]
+    },
+    {
+        "code": "100",
+        "label": "Kidnapping/Abduction",
+        "group": "A",
+        "category": "Person",
+        "keywords": ["kidnap", "abduction", "hostage", "snatch"]
+    },
+    {
+        "code": "11A",
+        "label": "Rape",
+        "group": "A",
+        "category": "Person",
+        "keywords": ["rape", "sexual assault"]
+    },
+    {
+        "code": "120",
+        "label": "Robbery",
+        "group": "A",
+        "category": "Property",
+        "keywords": ["robbery", "mugging", "stickup", "holdup", "heist"]
+    },
+    {
+        "code": "13A",
+        "label": "Aggravated Assault",
+        "group": "A",
+        "category": "Person",
+        "keywords": ["aggravated assault", "stabbing", "shooting", "maim"]
+    },
+    {
+        "code": "13B",
+        "label": "Simple Assault",
+        "group": "A",
+        "category": "Person",
+        "keywords": ["simple assault", "punch", "slap", "battery", "shove"]
+    },
+    {
+        "code": "13C",
+        "label": "Intimidation",
+        "group": "A",
+        "category": "Person",
+        "keywords": ["intimidation", "threat", "stalking"]
+    },
+    {
+        "code": "200",
+        "label": "Arson",
+        "group": "A",
+        "category": "Property",
+        "keywords": ["arson", "burning", "fire", "torching"]
+    },
+    {
+        "code": "220",
+        "label": "Burglary/Breaking & Entering",
+        "group": "A",
+        "category": "Property",
+        "keywords": ["burglary", "breaking and entering", "b&e", "forced entry"]
+    },
+    {
+        "code": "23C",
+        "label": "Shoplifting",
+        "group": "A",
+        "category": "Property",
+        "keywords": ["shoplifting", "retail theft", "conceal"]
+    },
+    {
+        "code": "240",
+        "label": "Motor Vehicle Theft",
+        "group": "A",
+        "category": "Property",
+        "keywords": ["motor vehicle theft", "stolen car", "gta", "joyriding"]
+    },
+    {
+        "code": "26F",
+        "label": "Identity Theft",
+        "group": "A",
+        "category": "Property",
+        "keywords": ["identity theft", "impersonation", "stolen identity"]
+    },
+    {
+        "code": "290",
+        "label": "Destruction/Damage/Vandalism",
+        "group": "A",
+        "category": "Property",
+        "keywords": ["vandalism", "graffiti", "damage", "defacing"]
+    },
+    {
+        "code": "35A",
+        "label": "Drug/Narcotic Violations",
+        "group": "A",
+        "category": "Society",
+        "keywords": ["drugs", "narcotics", "possession", "trafficking", "dealing"]
+    },
+    {
+        "code": "90D",
+        "label": "Driving Under the Influence",
+        "group": "B",
+        "category": "Society",
+        "keywords": ["dui", "drunk driving", "intoxicated", "dwi"]
+    },
+    {
+        "code": "90J",
+        "label": "Trespass of Real Property",
+        "group": "B",
+        "category": "Society",
+        "keywords": ["trespass", "unlawful entry", "intruding"]
+    }
+]
